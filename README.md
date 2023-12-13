@@ -5,7 +5,7 @@
 🧡 <strong>Computer Technician</strong> from the Federal Institute of Education, Science and Technology of Ceará. <br>
 
 <div align="left">
-  <a href="https://github.com/claralivia">
+  <a href="https://github.com/claralmoura">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claralivia&layout=compact&langs_count=7&theme=graywhite"/>
  </div>
   
