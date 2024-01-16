@@ -1,6 +1,6 @@
 # Hi! I'm Clara Lívia
 
-🧡 I'm currently studying <strong>Web Development</strong> and __Graphic Design__ <br>
+🧡 I'm currently studying <strong>Web Development</strong> <br>
 🧡 Graduating in <strong>Systems and Digital Media</strong> from the Federal University of Ceará. <br>
 🧡 <strong>Computer Technician</strong> from the Federal Institute of Education, Science and Technology of Ceará. <br>
 
