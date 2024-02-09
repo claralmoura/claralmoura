@@ -11,7 +11,7 @@
   
 #
 <div> 
-  <a href="https://www.instagram.com/claralivia.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/cclaralivia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/claralivia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.behance.net/claralivia" target="_blank"><img src="https://img.shields.io/badge/-Behance-FF4500?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 </div>
