@@ -46,9 +46,6 @@
 ### ⭐ Github Streak Stats
   <img src="https://streak-stats.demolab.com?user=claralmoura&theme=graywhite" alt="GitHub Streak" />
 
-### ⭐ Most Used Language
-  <img alt="Most Used Language" src="https://altf-github-reame-stats-clone.vercel.app/api/top-langs/?username=claralmoura&theme=graywhite" />
-
 ### ⭐ GitHub Profile Trophy
   <img alt="Profile Trophy" src="https://altf-github-profile-trophy-clone.vercel.app/?username=claralmoura&margin-w=15&margin-h=15&theme=graywhite&rank=-?&count_private=true" />
 
