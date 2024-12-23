@@ -4,16 +4,58 @@
 🧡 Graduating in <strong>Systems and Digital Media</strong> from the Federal University of Ceará. <br>
 🧡 <strong>Computer Technician</strong> from the Federal Institute of Education, Science and Technology of Ceará. <br>
 
-<div align="left">
-  <a href="https://github.com/claralmoura">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claralmoura&layout=compact&langs_count=7&theme=graywhite"/>
- </div>
-  
-#
-<div> 
-  <a href="https://www.instagram.com/cclaralivia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/claralivia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.behance.net/claralivia" target="_blank"><img src="https://img.shields.io/badge/-Behance-FF4500?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+## 💻 Technologies
+<div>
+  <img alt="AWS" height="24px" src="https://img.shields.io/badge/Amazon_AWS-FF4500?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Bootstrap" height="24px" src="https://img.shields.io/badge/Bootstrap-FF4500?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Docker" height="24px" src="https://img.shields.io/badge/Docker-FF4500?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Express.js" height="24px" src="https://img.shields.io/badge/Express.js-FF4500?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Firebase" height="24px" src="https://img.shields.io/badge/Firebase-FF4500?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="Figma" height="24px" src="https://img.shields.io/badge/Figma-FF4500?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="GIT" height="24px" src="https://img.shields.io/badge/GIT-FF4500?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GraphQL" height="24px" src="https://img.shields.io/badge/GraphQL-FF4500?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="Handlebars" height="24px" src="https://img.shields.io/badge/Handlebars%20js-FF4500?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
+  <img alt="Heroku" height="24px" src="https://img.shields.io/badge/Heroku-FF4500?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="Java" height="24px" src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-FF4500?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-FF4500?style=for-the-badge&logo=jest&logoColor=white" />
+  <img alt="Jira" height="24px" src="https://img.shields.io/badge/Jira-FF4500?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img alt="jQuery" height="24px" src="https://img.shields.io/badge/jQuery-FF4500?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="Linux" height="24px" src="https://img.shields.io/badge/Linux-FF4500?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Metabase" height="24px" src="https://img.shields.io/badge/Metabase-FF4500?style=for-the-badge&logo=metabase&logoColor=white" />
+  <img alt="MongoDB" height="24px" src="https://img.shields.io/badge/MongoDB-FF4500?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" height="24px" src="https://img.shields.io/badge/MySQL-FF4500?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="NPM" height="24px" src="https://img.shields.io/badge/NPM-FF4500?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Notion" height="24px" src="https://img.shields.io/badge/Notion-FF4500?style=for-the-badge&logo=notion&logoColor=white" />
+  <img alt="PostgreSQL" height="24px" src="https://img.shields.io/badge/PostgreSQL-FF4500?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Prisma ORM" height="24px" src="https://img.shields.io/badge/Prisma-FF4500?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img alt="React" height="24px" src="https://img.shields.io/badge/React-FF4500?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="React Router" height="24px" src="https://img.shields.io/badge/React_Router-FF4500?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img alt="Render" height="24px" src="https://img.shields.io/badge/Render-FF4500?style=for-the-badge&logo=render&logoColor=white" />
+  <img alt="Styled-Components" height="24px" src="https://img.shields.io/badge/styled--components-FF4500?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img alt="Spring Boot" height="24px" src="https://img.shields.io/badge/Spring_Boot-FF4500?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img alt="Tailwind" height="24px" src="https://img.shields.io/badge/Tailwind-FF4500?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="Trello" height="24px" src="https://img.shields.io/badge/Trello-FF4500?style=for-the-badge&logo=trello&logoColor=white" />
+  <img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-FF4500?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Vercel" height="24px" src="https://img.shields.io/badge/Vercel-FF4500?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="VSCode" height="24px" src="https://img.shields.io/badge/VSCode-FF4500?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Vue.js" height="24px" src="https://img.shields.io/badge/Vue.js-FF4500?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 </div>
 
-#
+### ⭐ Github Stats
+  <img alt="GitHub Stats" src="https://altf-github-reame-stats-clone.vercel.app/api?username=claralmoura&show_icons=true&hide_border=false&count_private=true&theme=graywhite" />
+
+### ⭐ Github Streak Stats
+  <img src="https://streak-stats.demolab.com?user=claralmoura&theme=graywhite" alt="GitHub Streak" />
+
+### ⭐ Most Used Language
+  <img alt="Most Used Language" src="https://altf-github-reame-stats-clone.vercel.app/api/top-langs/?username=claralmoura&theme=graywhite" />
+
+### ⭐ GitHub Profile Trophy
+  <img alt="Profile Trophy" src="https://altf-github-profile-trophy-clone.vercel.app/?username=claralmoura&margin-w=15&margin-h=15&theme=graywhite&rank=-?&count_private=true" />
+
+
+## 🧡 Connect with me
+  <a href="https://www.instagram.com/cclaralivia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/claralivia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/claralivia" target="_blank"><img src="https://img.shields.io/badge/-Behance-FF4500?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
