@@ -14,8 +14,6 @@
   <img alt="Figma" height="24px" src="https://img.shields.io/badge/Figma-FF4500?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="GIT" height="24px" src="https://img.shields.io/badge/GIT-FF4500?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GraphQL" height="24px" src="https://img.shields.io/badge/GraphQL-FF4500?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img alt="Handlebars" height="24px" src="https://img.shields.io/badge/Handlebars%20js-FF4500?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
-  <img alt="Heroku" height="24px" src="https://img.shields.io/badge/Heroku-FF4500?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-FF4500?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-FF4500?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="Jira" height="24px" src="https://img.shields.io/badge/Jira-FF4500?style=for-the-badge&logo=Jira&logoColor=white" />
@@ -39,15 +37,6 @@
   <img alt="Vercel" height="24px" src="https://img.shields.io/badge/Vercel-FF4500?style=for-the-badge&logo=vercel&logoColor=white" />
   <img alt="Vue.js" height="24px" src="https://img.shields.io/badge/Vue.js-FF4500?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 </div>
-
-### ⭐ Github Stats
-  <img alt="GitHub Stats" src="https://altf-github-reame-stats-clone.vercel.app/api?username=claralmoura&show_icons=true&hide_border=false&count_private=true&theme=graywhite" />
-
-### ⭐ Github Streak Stats
-  <img src="https://streak-stats.demolab.com?user=claralmoura&theme=graywhite" alt="GitHub Streak" />
-
-### ⭐ GitHub Profile Trophy
-  <img alt="Profile Trophy" src="https://altf-github-profile-trophy-clone.vercel.app/?username=claralmoura&margin-w=15&margin-h=15&theme=graywhite&rank=-?&count_private=true" />
 
 
 ## 🧡 Connect with me
