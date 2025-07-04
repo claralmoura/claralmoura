@@ -1,44 +1,71 @@
-# Hi! I'm Clara Lívia
+# Olá, sou a Clara Lívia! 👋
 
-🧡 I'm currently studying <strong>Web Development</strong> <br>
-🧡 Graduating in <strong>Systems and Digital Media</strong> from the Federal University of Ceará. <br>
-🧡 <strong>Computer Technician</strong> from the Federal Institute of Education, Science and Technology of Ceará. <br>
+Sou uma **desenvolvedora Fullstack** apaixonada por transformar conceitos em realidade digital. Meu foco é construir soluções web com **código limpo, legível e de fácil manutenção**, sempre priorizando uma **experiência do usuário intuitiva e um design funcional**.
 
-## 💻 Technologies
-<div>
-  <img alt="AWS" height="24px" src="https://img.shields.io/badge/aws-FF4500?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img alt="Bootstrap" height="24px" src="https://img.shields.io/badge/Bootstrap-FF4500?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Docker" height="24px" src="https://img.shields.io/badge/Docker-FF4500?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Express.js" height="24px" src="https://img.shields.io/badge/Express.js-FF4500?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="Firebase" height="24px" src="https://img.shields.io/badge/Firebase-FF4500?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img alt="Figma" height="24px" src="https://img.shields.io/badge/Figma-FF4500?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="GIT" height="24px" src="https://img.shields.io/badge/GIT-FF4500?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GraphQL" height="24px" src="https://img.shields.io/badge/GraphQL-FF4500?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img alt="JavaScript" height="24px" src="https://img.shields.io/badge/JavaScript-FF4500?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-FF4500?style=for-the-badge&logo=jest&logoColor=white" />
-  <img alt="Jira" height="24px" src="https://img.shields.io/badge/Jira-FF4500?style=for-the-badge&logo=Jira&logoColor=white" />
-  <img alt="jQuery" height="24px" src="https://img.shields.io/badge/jQuery-FF4500?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img alt="Linux" height="24px" src="https://img.shields.io/badge/Linux-FF4500?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Metabase" height="24px" src="https://img.shields.io/badge/Metabase-FF4500?style=for-the-badge&logo=metabase&logoColor=white" />
-  <img alt="MongoDB" height="24px" src="https://img.shields.io/badge/MongoDB-FF4500?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" height="24px" src="https://img.shields.io/badge/MySQL-FF4500?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="NPM" height="24px" src="https://img.shields.io/badge/NPM-FF4500?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="Notion" height="24px" src="https://img.shields.io/badge/Notion-FF4500?style=for-the-badge&logo=notion&logoColor=white" />
-  <img alt="PHP" height="24px" src="https://img.shields.io/badge/PHP-FF4500?style=for-the-badge&logo=PHP&logoColor=white" />
-  <img alt="Prisma ORM" height="24px" src="https://img.shields.io/badge/Prisma-FF4500?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img alt="Python" height="24px" src="https://img.shields.io/badge/Python-FF4500?style=for-the-badge&logo=Python&logoColor=white" />
-  <img alt="React" height="24px" src="https://img.shields.io/badge/React-FF4500?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="React Router" height="24px" src="https://img.shields.io/badge/React_Router-FF4500?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img alt="Render" height="24px" src="https://img.shields.io/badge/Render-FF4500?style=for-the-badge&logo=render&logoColor=white" />
-  <img alt="Styled-Components" height="24px" src="https://img.shields.io/badge/styled--components-FF4500?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img alt="Tailwind" height="24px" src="https://img.shields.io/badge/tailwind-FF4500?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img alt="Trello" height="24px" src="https://img.shields.io/badge/Trello-FF4500?style=for-the-badge&logo=trello&logoColor=white" />
-  <img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-FF4500?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Vercel" height="24px" src="https://img.shields.io/badge/Vercel-FF4500?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Vue.js" height="24px" src="https://img.shields.io/badge/Vue.js-FF4500?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+Minha base técnica veio da formação como **Técnica em Informática** no Instituto Federal. Aprofundei meus conhecimentos em **Sistemas e Mídias Digitais** na Universidade Federal do Ceará, onde desenvolvi um olhar apurado para UX/UI e aprimorei meu senso estético. Atualmente, estou expandindo minha visão de arquitetura de software no bacharelado em **Análise e Desenvolvimento de Sistemas** na Estácio. Sou curiosa e aprendo rápido, o que me permite abraçar novos desafios tecnológicos com agilidade.
+
+---
+
+### 🚀 Desvendando o Universo Web: Minha Stack
+
+Atuo em uma startup brasileira, onde sou responsável por desenvolver e aprimorar uma **plataforma de compras B2B**. Neste ambiente dinâmico, aplico minhas habilidades para garantir a funcionalidade e o desempenho de nossas aplicações.
+
+Minha **caixa de ferramentas principal** inclui:
+
+<div align="center">
+  <img alt="JavaScript" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Node.js" height="30px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Vue.js" height="30px" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="GraphQL" height="30px" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="MongoDB" height="30px" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Express.js" height="30px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="AWS" height="30px" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Google Cloud" height="30px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="Serverless" height="30px" src="https://img.shields.io/badge/Serverless-FD5757?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img alt="GIT" height="30px" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+<br>
+<details>
+  <summary>Outras tecnologias com as quais atuo:</summary>
+  <br>
+  <div align="center">
+    <img alt="Bootstrap" height="24px" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img alt="Docker" height="24px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Firebase" height="24px" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img alt="Figma" height="24px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <img alt="Jira" height="24px" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <img alt="jQuery" height="24px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img alt="Linux" height="24px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img alt="Metabase" height="24px" src="https://img.shields.io/badge/Metabase-50BB7B?style=for-the-badge&logo=metabase&logoColor=white" />
+    <img alt="MySQL" height="24px" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="NPM" height="24px" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img alt="Notion" height="24px" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img alt="PHP" height="24px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="Prisma ORM" height="24px" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+    <img alt="Python" height="24px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="React" height="24px" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img alt="React Router" height="24px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img alt="Render" height="24px" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+    <img alt="Styled-Components" height="24px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img alt="Tailwind" height="24px" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img alt="Trello" height="24px" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+    <img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="Vercel" height="24px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </div>
+</details>
 
+---
 
-## 🧡 Connect with me
-  <a href="https://www.instagram.com/cclaralivia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/claralivia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### 🎨 Design e Desenvolvimento: A União Perfeita
+
+Minha formação em **Sistemas e Mídias Digitais** me proporcionou a habilidade de integrar conceitos de **design visual e experiência do usuário (UX/UI)** diretamente no processo de desenvolvimento. Acredito que um software de sucesso é a fusão de funcionalidade robusta com uma interface que realmente ressoa com o usuário, tornando a interação eficiente e agradável.
+
+---
+
+### 💬 Conecte-se!
+
+Estou sempre aberta a trocar conhecimentos e explorar novas possibilidades no universo da tecnologia.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claralivia)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cclaralivia/)
