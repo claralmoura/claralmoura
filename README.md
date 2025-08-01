@@ -2,7 +2,7 @@
 
 Sou uma **desenvolvedora Fullstack** apaixonada por transformar conceitos em realidade digital. Meu foco é construir soluções web com **código limpo, legível e de fácil manutenção**, sempre priorizando uma **experiência do usuário intuitiva e um design funcional**.
 
-Minha base técnica veio da formação como **Técnica em Informática** no Instituto Federal. Aprofundei meus conhecimentos em **Sistemas e Mídias Digitais** na Universidade Federal do Ceará, onde desenvolvi um olhar apurado para UX/UI e aprimorei meu senso estético. Atualmente, estou expandindo minha visão de arquitetura de software no bacharelado em **Análise e Desenvolvimento de Sistemas** na Estácio. Sou curiosa e aprendo rápido, o que me permite abraçar novos desafios tecnológicos com agilidade.
+Minha base técnica veio da formação como **Técnica em Informática** no Instituto Federal. Aprofundo meus conhecimentos em **Sistemas e Mídias Digitais** na Universidade Federal do Ceará, onde desenvolvo um olhar apurado para UX/UI e aprimorei meu senso estético. Atualmente, também estou expandindo minha visão de arquitetura de software no tecnólogo em **Análise e Desenvolvimento de Sistemas** na Estácio. Sou curiosa e aprendo rápido, o que me permite abraçar novos desafios tecnológicos com agilidade.
 
 ---
 
@@ -59,7 +59,7 @@ Minha **caixa de ferramentas principal** inclui:
 
 ### 🎨 Design e Desenvolvimento: A União Perfeita
 
-Minha formação em **Sistemas e Mídias Digitais** me proporcionou a habilidade de integrar conceitos de **design visual e experiência do usuário (UX/UI)** diretamente no processo de desenvolvimento. Acredito que um software de sucesso é a fusão de funcionalidade robusta com uma interface que realmente ressoa com o usuário, tornando a interação eficiente e agradável.
+Minha formação em andamento em **Sistemas e Mídias Digitais** me proporciona a habilidade de integrar conceitos de **design visual e experiência do usuário (UX/UI)** diretamente no processo de desenvolvimento. Acredito que um software de sucesso é a fusão de funcionalidade robusta com uma interface que realmente ressoa com o usuário, tornando a interação eficiente e agradável.
 
 ---
 
