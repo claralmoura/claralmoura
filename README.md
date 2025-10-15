@@ -1,4 +1,4 @@
-# Olá, sou a Clara Lívia! 👋
+# Hello, sou a Clara! 💙
 
 Sou uma **desenvolvedora Fullstack** apaixonada por transformar conceitos em realidade digital. Meu foco é construir soluções web com **código limpo, legível e de fácil manutenção**, sempre priorizando uma **experiência do usuário intuitiva e um design funcional**.
 
@@ -6,7 +6,7 @@ Minha base técnica veio da formação como **Técnica em Informática** no Inst
 
 ---
 
-### 🚀 Desvendando o Universo Web: Minha Stack
+### Minha Stack
 
 Atuo em uma startup brasileira, onde sou responsável por desenvolver e aprimorar uma **plataforma de compras B2B**. Neste ambiente dinâmico, aplico minhas habilidades para garantir a funcionalidade e o desempenho de nossas aplicações.
 
@@ -57,13 +57,13 @@ Minha **caixa de ferramentas principal** inclui:
 
 ---
 
-### 🎨 Design e Desenvolvimento: A União Perfeita
+### Design e Desenvolvimento
 
 Minha formação em andamento em **Sistemas e Mídias Digitais** me proporciona a habilidade de integrar conceitos de **design visual e experiência do usuário (UX/UI)** diretamente no processo de desenvolvimento. Acredito que um software de sucesso é a fusão de funcionalidade robusta com uma interface que realmente ressoa com o usuário, tornando a interação eficiente e agradável.
 
 ---
 
-### 💬 Conecte-se!
+### Conecte-se!
 
 Estou sempre aberta a trocar conhecimentos e explorar novas possibilidades no universo da tecnologia.
 
