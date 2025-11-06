@@ -8,7 +8,7 @@
 
 Este é o meu novo portfólio pessoal, que você pode visitar agora mesmo. Foi um projeto construído do zero para demonstrar minhas habilidades em design de interação e desenvolvimento frontend moderno.
 
-**[🔗 Link Ao Vivo (Vercel)](https://claralivia.vercel.app/)** | **[💻 Ver o Código](https://github.com/claralmoura/meu-portfolio)**
+**[🔗 Link Ao Vivo (Vercel)](https://claralivia.dev/)** | **[💻 Ver o Código](https://github.com/claralmoura/meu-portfolio)**
 
 </br>
 
