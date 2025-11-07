@@ -8,11 +8,11 @@
 
 Este é o meu novo portfólio pessoal, que você pode visitar agora mesmo. Foi um projeto construído do zero para demonstrar minhas habilidades em design de interação e desenvolvimento frontend moderno.
 
-**[🔗 Link Ao Vivo (Vercel)](https://claralivia.dev/)** | **[💻 Ver o Código](https://github.com/claralmoura/meu-portfolio)**
+**[🔗 Link Ao Vivo (Vercel)](https://claralivia.dev/)** | **[💻 Ver o Código](https://github.com/claralivia/meu-portfolio)**
 
 </br>
 
-<img alt="Screenshot do Portfólio" src="https://raw.githubusercontent.com/claralmoura/meu-portfolio/main/public/og-image.png" />
+<img alt="Screenshot do Portfólio" src="https://raw.githubusercontent.com/claralivia/meu-portfolio/main/public/og-image.png" />
 
 </br>
 
@@ -36,7 +36,7 @@ Este portfólio dinâmico, desenvolvido com **Vue 3** e **TypeScript**, utiliza 
   <a href="https://www.linkedin.com/in/claralivia">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/claralmoura">
+  <a href="https://github.com/claralivia">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" height="35" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/cclaralivia/">
